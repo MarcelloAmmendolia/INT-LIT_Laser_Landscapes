@@ -1,0 +1,6 @@
+Marcello Ammendolia - 2022
+
+Diodes control is a project a
+The installation is using laser diodes to draw light beams in the environment.
+The lasers are turned ON and OFF, switching between different configurations, depending on various types of user interaction and/or programming.
+The project makes use of Haze machines to make the beams visible, micro-controllers to drive the PWM to the diodes.
